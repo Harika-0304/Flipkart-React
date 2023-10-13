@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "productId": "1",
+      "title": "iPhone xs",
+      "brand": "Apple",
+      "price": "1,09,900",
+      "description": "Pinky's iPhone",
+      "thumbnail": "https://www.yourdealindia.com/cdn/shop/products/pinksandfullcoverMTF82_AV1_GOLD_GEO_US_ec23f391-a3c3-440f-a5f1-7bec7f47fdab_300x300.jpg?v=1597613655",
+      "id": 1
+    }
+  ]
+}
